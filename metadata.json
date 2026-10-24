@@ -1,0 +1,6 @@
+{
+  "name": "The Boob Archetype Quiz",
+  "description": "Discover your signature silhouette and true boob archetype through 5 intuitive questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
